@@ -22,17 +22,13 @@
   <!-- İstediğin başka badge ekle: https://shields.io/ -->
 </p>
 
-### 🔥 En Sevdiğim Projelerim
-- **[Proje Adı 1]** → Kısa açıklama (link repo'ya)  
-  *Teknolojiler: HTML, CSS, JS*
-- **[Proje Adı 2]** → Basit bir Python script'i veya todo app  
-  *Teknolojiler: Python, Tkinter*
+
 - Daha fazlası için repolarıma göz at! 👇
 
 ### 🤝 Bağlantı Kurmak İster misin?
 <p align="center">
-  <a href="https://www.linkedin.com/in/orcun-uyar/">LinkedIn</a> • 
-  <a href="mailto:orcunuyar@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/or%C3%A7un-uyar-590034381/">LinkedIn</a> • 
+  <a href="mailto:orcunuyaroffical@gmail.com">Email</a>
 </p>
 
 <p align="center">
